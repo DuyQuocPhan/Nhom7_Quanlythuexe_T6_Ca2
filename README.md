@@ -23,6 +23,6 @@ Linh hoạt lựa chọn xe dựa trên nhu cầu cụ thể của bạn.
 An toàn và bảo hiểm cho mọi chuyến đi.
 Dễ dàng theo dõi và quản lý đặt xe của bạn trực tuyến.
 
-[HÌNH ẢNH DEMO CÒN CẬP NHẬT THÊM]
+HÌNH ẢNH DEMO CÒN CẬP NHẬT THÊM
 
-![ÁDS](https://bizweb.dktcdn.net/100/344/585/files/intro-1.jpg)
+![ÁDS](https://webtravel.vn/files/images/m%E1%BA%ABu%20website%20thu%C3%AA%20xe.jpg)
