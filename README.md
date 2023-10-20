@@ -26,6 +26,8 @@ Dễ dàng theo dõi và quản lý đặt xe của bạn trực tuyến.
 HÌNH ẢNH DEMO CÒN CẬP NHẬT THÊM
 
 ![alt](https://webtravel.vn/files/images/m%E1%BA%ABu%20website%20thu%C3%AA%20xe.jpg)
+![alt](https://chipchipweb.com/media/data/images/44b70a514b3d0b26e044c5cb5af351c6.png)
+
 
 # Các Công sử dụng
 SQL Server
