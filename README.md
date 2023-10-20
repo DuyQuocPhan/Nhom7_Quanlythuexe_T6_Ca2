@@ -1,2 +1,28 @@
-# Thu-xe
-Dự án thuê xe 
+# Web quản lý thuê xe
+Tên Trang Web: HuflitCar
+
+Slogan: "Tự Do Di Chuyển, Dễ Dàng Thuê Xe"
+
+Giới Thiệu Về Chúng Tôi
+
+Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm và thuê xe cho mọi nhu cầu di chuyển của mình. Chúng tôi tự hào cung cấp dịch vụ thuê xe đáng tin cậy và thuận tiện cho mọi người.
+
+Tính Năng Chính
+
+Đa Dạng Lựa Chọn: Với hàng trăm loại xe từ sedan, SUV, xe thể thao, đến xe hơi gia đình, chúng tôi đáp ứng mọi nhu cầu của bạn.
+
+Thuê Xe Trực Tuyến: Đặt xe dễ dàng qua trang web hoặc ứng dụng di động của chúng tôi. Chọn thời gian và địa điểm thuê theo ý muốn.
+
+Tìm kiếm xe theo ý muốn: Giúp khách hàng tìm kiếm các loại xe ví dụ theo tên hoặc danh mục mọt cách nhanh chóng
+
+
+Lợi Ích
+
+Tiết kiệm thời gian và công sức trong việc tìm kiếm xe thuê.
+Linh hoạt lựa chọn xe dựa trên nhu cầu cụ thể của bạn.
+An toàn và bảo hiểm cho mọi chuyến đi.
+Dễ dàng theo dõi và quản lý đặt xe của bạn trực tuyến.
+
+[HÌNH ẢNH DEMO CÒN CẬP NHẬT THÊM]
+
+![ÁDS](https://bizweb.dktcdn.net/100/344/585/files/intro-1.jpg)
