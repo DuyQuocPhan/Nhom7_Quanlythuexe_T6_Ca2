@@ -26,3 +26,19 @@ Dễ dàng theo dõi và quản lý đặt xe của bạn trực tuyến.
 HÌNH ẢNH DEMO CÒN CẬP NHẬT THÊM
 
 ![alt](https://webtravel.vn/files/images/m%E1%BA%ABu%20website%20thu%C3%AA%20xe.jpg)
+
+# Các Công sử dụng
+SQL Server
+
+![alt](https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930)
+
+Visual Studio
+![alt](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2022/06/Visual-Studio-2022-for-Mac-Logo-1024x1024.png)
+
+
+# Các ngôn ngữ sử dụng
+HTML/JavaScript/CSS
+
+C#
+
+SQL
