@@ -44,3 +44,8 @@ HTML/JavaScript/CSS
 C#
 
 SQL
+
+# Hướng phát triển
+Hoàn thành những chức năng chính của một trang web thuê xe
+Cập nhật và phát triển thêm về giao diện theo xu thế
+
