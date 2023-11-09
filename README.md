@@ -5,7 +5,7 @@
 
 ## Giới Thiệu Về Chúng Tôi
 
-Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm và thuê xe cho mọi nhu cầu di chuyển của mình. Chúng tôi tự hào cung cấp dịch vụ thuê xe đáng tin cậy và thuận tiện cho mọi người.
+Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm và thuê xe cho mọi nhu cầu di chuyển của mình. Chúng tôi tự hào cung cấp dịch vụ thuê xe đáng tin cậy và thuận tiện cho mọi người.Mục đích HuflitCar được xây dựng theo nhu cầu phát triển xã hội giúp người người dùng có thể thuê xe trực tuyến mà khôngcần
 
 ## Tính Năng Chính
 
@@ -24,10 +24,16 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 
 ## Hình Ảnh Demo Trang chủ (Còn Cập Nhật Thêm)
 
-<img src="https://webtravel.vn/files/images/m%E1%BA%ABu%20website%20thu%C3%AA%20xe.jpg" witdh=60 height =60/>
+<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/0e3abe9c-6a54-4ec8-9dcc-06059d756971"  witdh=244 height =512//>
+<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/7e00ed13-3b0f-4067-87d4-6c73a1eb0938" witdh=20 height =360/>
 
-<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/7e00ed13-3b0f-4067-87d4-6c73a1eb0938" witdh=960 height =640/>
-
+# **Thành viên**
+## **Cá thành viên bao gồm**
+- Phan Quốc Duy 
+- Lê Hữu Bền
+- Võ Tiến Thịnh
+- Nguyễn Lâm Đức Hoà
+- Võ Duy Khánh
 
 # **Các Công Cụ Sử Dụng**
 
@@ -54,7 +60,10 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 
 ## Hướng Phát Triển
 
-- Hoàn thiện các chức năng còn chưa hoàn chỉnh.
-- Viết lại đoạn README này và căn chỉnh hình ảnh.
+- Hoàn thiện các chức năng còn chưa hoàn chỉnh ở các sprint.
+- Cải thiện giao diện trang đăng nhập và quản lý .
+- Cập nhật các công nghệ mới để phát triển phần mềm
+- Cải thiện chức năng thuê xe và thanh toán bằng phương thức trực tuyến
 
-Cảm ơn bạn đã quan tâm đến HuflitCar - Nơi Tự Do Di Chuyển trở nên Dễ Dàng!
+
+Cảm ơn bạn đã quan tâm đến dự án HuflitCar 
