@@ -33,12 +33,11 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 
 **SQL Server**
 
-<img src="https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930" witdh=60 height =60/>
-
+![sql-server](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/864251b2-9be3-4387-886d-251293bb9308)
 
 **Visual Studio**
 
-<img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2022/06/Visual-Studio-2022-for-Mac-Logo-1024x1024.png" witdh=60 height =60/>
+![visual-studio](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/092d2bff-0b3b-4ab7-99e5-d6415e32ca14)
 
 
 # **Ngôn Ngữ Sử Dụng**
