@@ -1,4 +1,4 @@
-# Web quản lý thuê xe
+# **Web quản lý thuê xe**
 Tên Trang Web: HuflitCar
 
 Slogan: "Tự Do Di Chuyển, Dễ Dàng Thuê Xe"
@@ -26,10 +26,10 @@ Dễ dàng theo dõi và quản lý đặt xe của bạn trực tuyến.
 HÌNH ẢNH DEMO CÒN CẬP NHẬT THÊM
 
 ![alt](https://webtravel.vn/files/images/m%E1%BA%ABu%20website%20thu%C3%AA%20xe.jpg)
-![alt](https://chipchipweb.com/media/data/images/44b70a514b3d0b26e044c5cb5af351c6.png)
+![alt]([https://chipchipweb.com/media/data/images/44b70a514b3d0b26e044c5cb5af351c6.png](https://fontawesome.com/icons/html5?f=brands&s=solid))
 
 
-# Các Công sử dụng
+# **Các Công sử dụng**
 SQL Server
 
 ![alt](https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930)
@@ -40,12 +40,11 @@ Visual Studio
 
 # Các ngôn ngữ sử dụng
 HTML/JavaScript/CSS
-
+<img src="![image](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/0e26b90c-0436-4c37-ac6c-1607a6a2a271)"/>
 C#
 
 SQL
 
-# Hướng phát triển
-Hoàn thành những chức năng chính của một trang web thuê xe
-Cập nhật và phát triển thêm về giao diện theo xu thế
+# **Hướng phát triển**
+Hoàn thiện các chức năng còn chưa hoàn chỉnh
 
