@@ -28,7 +28,6 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 <img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/7e00ed13-3b0f-4067-87d4-6c73a1eb0938" witdh=20 height =360/>
 
 # **Thành viên**
-## **Cá thành viên bao gồm**
 - Phan Quốc Duy 
 - Lê Hữu Bền
 - Võ Tiến Thịnh
