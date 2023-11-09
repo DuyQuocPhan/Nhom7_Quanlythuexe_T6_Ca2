@@ -46,6 +46,12 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 - HTML/JavaScript/CSS
 - C#
 - SQL
+  
+![HTML](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/c9ea0e82-c583-492f-b552-e7682448d3ab)
+![css-3](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/791317d1-4330-40eb-a6cb-3cb9debedf02)
+![java-script](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/9e3ae49f-4eff-4a0b-993d-28535213b399)
+![c-sharp](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/0424238d-afc4-4b02-9d99-4f5d89de29ce)
+![sql-server](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/53d86471-c493-41fb-b9de-6583285fc412)
 
 ## Hướng Phát Triển
 
