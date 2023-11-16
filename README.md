@@ -28,9 +28,11 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 <img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/7e00ed13-3b0f-4067-87d4-6c73a1eb0938" witdh=20 height =360/>
 
 # **Thành viên**
+  
 - Phan Quốc Duy
   Thông tin liên hệ :
-  Gmail:drbicon1997@gmail.com
+ <a href="mailto:drbicon@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="FB" /></a>
+<a href="https://www.facebook.com/quoc.duy.14203/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="FB" /></a>
   Facebook:https://www.facebook.com/quoc.duy.14203/
 - Lê Hữu Bền
   Thông tin liên hệ :
