@@ -24,8 +24,8 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 
 ## Hình Ảnh Demo Trang chủ (Còn Cập Nhật Thêm)
 
-<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/0e3abe9c-6a54-4ec8-9dcc-06059d756971"  witdh=244 height =512//>
-<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/7e00ed13-3b0f-4067-87d4-6c73a1eb0938" witdh=20 height =360/>
+<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/0e3abe9c-6a54-4ec8-9dcc-06059d756971"  witdh=244 height =512/>
+<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/7e00ed13-3b0f-4067-87d4-6c73a1eb0938"  witdh=244 height =512/>
 
 # **Thành viên**
   
