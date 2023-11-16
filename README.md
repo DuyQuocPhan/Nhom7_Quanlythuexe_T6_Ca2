@@ -62,7 +62,7 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 
 # **Ngôn Ngữ Sử Dụng**
 
-- HTML/JavaScript/CSS
+ Front End: HTML/JavaScript/CSS
 - C#
 - SQL
   
