@@ -30,27 +30,31 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 # **Thành viên**
   
 - Phan Quốc Duy
-  Thông tin liên hệ :
- <a href="mailto:drbicon@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="FB" /></a>
-<a href="https://www.facebook.com/quoc.duy.14203/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="FB" /></a>
-  Facebook:https://www.facebook.com/quoc.duy.14203/
-- Lê Hữu Bền
-  Thông tin liên hệ :
-  Gmail:drbicon1997@gmail.com
-  Facebook:https://www.facebook.com/quoc.duy.14203/
-- Võ Tiến Thịnh
-  Thông tin liên hệ :
-  Gmail:drbicon1997@gmail.com
-  Facebook:https://www.facebook.com/quoc.duy.14203/
-- Nguyễn Lâm Đức Hoà
-  Thông tin liên hệ :
-  Gmail:drbicon1997@gmail.com
-  Facebook:https://www.facebook.com/quoc.duy.14203/
-- Võ Duy Khánh
-  Thông tin liên hệ :
-  Gmail:drbicon1997@gmail.com
-  Facebook:https://www.facebook.com/quoc.duy.14203/
 
+ <a href="mailto:drbicon@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="FB" /></a>
+ <a href="https://www.facebook.com/quoc.duy.14203/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="FB" /></a>
+ 
+- Lê Hữu Bền
+  
+
+ <a href="mailto:leben789789@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="FB" /></a>
+ <a href="https://www.facebook.com/benle.2408/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="FB" /></a>
+ 
+- Võ Tiến Thịnh
+  
+ <a href="mailto: votienthinh1001@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="FB" /></a>
+ <a href="https://www.facebook.com/agust.kennedy?mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="FB" /></a>
+ 
+- Nguyễn Lâm Đức Hoà
+  
+ <a href="mailto:duchoa3032002@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="FB" /></a>
+ <a href="https://www.facebook.com/profile.php?id=100009227780956&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="FB" /></a>
+ 
+- Võ Duy Khánh
+  
+ <a href="mailto:lawesss2611@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="FB" /></a>
+ <a href="https://www.facebook.com/profile.php?id=100009349033921" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="FB" /></a>
+ 
 # **Các Công Cụ Sử Dụng**
 
 **SQL Server**
