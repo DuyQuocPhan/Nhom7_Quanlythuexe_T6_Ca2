@@ -4,8 +4,10 @@
 ## Giới Thiệu Về Chúng Tôi
 
  Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm và thuê xe cho mọi nhu cầu di chuyển của mình. Chúng tôi tự hào cung cấp dịch vụ thuê xe đáng tin cậy và thuận tiện cho mọi người.Mục đích HuflitCar được xây dựng theo nhu cầu phát triển xã hội giúp người người dùng có thể thuê xe trực tuyến mà không cần
-Đội ngũ phát triển:
+ 
+
 Đội ngũ phát triển  bao gồm 4 sinh viên chưa có quá nhiều kinh nghiệm.Nhưng hiện tại chúng tôi vẫn đang cố gắng học hỏi nhiều kinh nghiệm và cải thiện dự án trong một thời gian
+
 Bao gồm các thành viên với những vai trò: Võ Tiến Thịnh(Product Owner),Phan Quốc Duy(Scrum Master), Lê Hữu Bền(Team Lead), Võ Duy Khánh(Dev),Nguyễn Lâm Đức Hoà(Dev)
 
  **Mục Tiêu của dự án**
@@ -37,8 +39,8 @@ Thông tin cá nhân và giao dịch của bạn được bảo vệ một cách
 
 ## Hình Ảnh Demo Trang chủ (Còn Cập Nhật Thêm)
 
-<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/0e3abe9c-6a54-4ec8-9dcc-06059d756971"  witdh=244 height =512/>
-<img src="https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/7e00ed13-3b0f-4067-87d4-6c73a1eb0938"  witdh=244 height =512/>
+![image](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/17714c71-2621-4d76-8195-196ebae9fa54)
+![281797803-0e3abe9c-6a54-4ec8-9dcc-06059d756971](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/e9239775-00e8-41d1-8e12-680635aabf60)
 
 # **Thành viên và thông tin liên hệ**
   
@@ -95,10 +97,41 @@ Visual Studio là một IDE (Integrated Development Environment) mạnh mẽ c�
 
 ![sql-server](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/864251b2-9be3-4387-886d-251293bb9308)
 
+Microsoft SQL Server - Khái Niệm và Tổng Quan
+
+Microsoft SQL Server là một hệ quản trị cơ sở dữ liệu (DBMS) được phát triển bởi Microsoft. Nó là một sản phẩm quan trọng trong hệ sinh thái Microsoft và được sử dụng rộng rãi trên toàn cầu cho việc quản lý và lưu trữ dữ liệu. Dưới đây là một số khái niệm quan trọng liên quan đến SQL Server:
+- Cơ Sở Dữ Liệu (Database):
+- Hệ Quản Trị Cơ Sở Dữ Liệu (DBMS)
+- Ngôn Ngữ Truy Vấn SQL (Structured Query Language)
+- Bảng (Table)
+- Thủ Tục Lưu Trữ (Stored Procedure)
+  
 **Visual Studio**
 
 ![visual-studio](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/092d2bff-0b3b-4ab7-99e5-d6415e32ca14)
 
+Visual Studio Code: Mô Tả và Tổng Quan
+
+Visual Studio Code (VSCode) là một trình biên tập mã nguồn mở và miễn phí, được phát triển bởi Microsoft. Dưới đây là mô tả và một số điểm nổi bật của VSCode:
+
+- Đa Nền Tảng:
+Đặc Điểm: VSCode hỗ trợ trên nhiều hệ điều hành khác nhau như Windows, macOS và Linux. Điều này làm cho nó trở thành một công cụ phổ biến cho các nhà phát triển làm việc trên nhiều môi trường.
+- Mã Nguồn Mở và Miễn Phí:
+Đặc Điểm: VSCode là một sản phẩm mã nguồn mở, cho phép người dùng sử dụng, sửa đổi và phân phối mã nguồn mà không có chi phí.
+- Giao Diện Người Dùng Gọn Nhẹ và Linh Hoạt:
+Đặc Điểm: Giao diện của VSCode đơn giản, nhẹ nhàng, và dễ sử dụng. Nó có thể được tùy chỉnh một cách linh hoạt để phản ánh sở thích và phong cách làm việc của người dùng.
+- Hỗ Trợ Ngôn Ngữ Lập Trình Đa Dạng:
+Đặc Điểm: VSCode hỗ trợ nhiều ngôn ngữ lập trình phổ biến và cung cấp tích hợp cho nhiều công nghệ và framework. Điều này làm cho nó trở thành một công cụ linh hoạt cho nhiều dự án.
+- Hệ Thống Mở Rộng Mạnh Mẽ:
+Đặc Điểm: VSCode có một hệ thống mở rộng mạnh mẽ, cho phép người dùng cài đặt và sử dụng nhiều tiện ích mở rộng để mở rộng khả năng và tính năng của trình soạn thảo.
+- Debugging Tích Hợp:
+Đặc Điểm: VSCode tích hợp khả năng debug, giúp nhà phát triển theo dõi và sửa lỗi trong mã nguồn một cách hiệu quả.
+- Hỗ Trợ Đa Ngôn Ngữ:
+Đặc Điểm: VSCode hỗ trợ đa ngôn ngữ, cho phép người dùng chuyển đổi giữa các ngôn ngữ một cách thuận tiện và linh hoạt.
+- Quản Lý Phiên Bản Tích Hợp (Integrated Version Control):
+Đặc Điểm: Tích hợp sẵn với các hệ thống quản lý phiên bản như Git, giúp theo dõi sự thay đổi trong mã nguồn và quản lý lịch sử phiên bản.
+- Cộng Đồng Lớn và Hỗ Trợ Tốt:
+Đặc Điểm: VSCode có một cộng đồng lớn và tích cực, điều này đồng nghĩa với việc có nhiều tài liệu, tiện ích mở rộng, và hỗ trợ từ cộng đồng.
 
 ## **Ngôn Ngữ Sử Dụng**
 
@@ -118,10 +151,6 @@ Mô tả: Điều khiển logic xử lý dữ liệu và các chức năng nền
 
 SQL ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) :
 Mô tả: Định nghĩa cấu trúc của cơ sở dữ liệu để lưu trữ thông tin về xe, người dùng, và các giao dịch.
-
-
-
-
 
 ## Hướng Phát Triển
 
