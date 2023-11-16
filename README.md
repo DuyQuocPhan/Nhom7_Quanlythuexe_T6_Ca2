@@ -66,11 +66,11 @@ Chào mừng bạn đến với HuflitCar, nơi bạn có thể dễ dàng tìm 
 - C#
 - SQL
   
-![HTML](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/c9ea0e82-c583-492f-b552-e7682448d3ab)
-![css-3](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/791317d1-4330-40eb-a6cb-3cb9debedf02)
-![java-script](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/9e3ae49f-4eff-4a0b-993d-28535213b399)
-![c-sharp](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/0424238d-afc4-4b02-9d99-4f5d89de29ce)
-![sql-server](https://github.com/DuyQuocPhan/Nhom7_Quanlythuexe_T6_Ca2/assets/107761696/53d86471-c493-41fb-b9de-6583285fc412)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## Hướng Phát Triển
 
