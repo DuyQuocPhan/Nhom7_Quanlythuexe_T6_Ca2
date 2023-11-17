@@ -135,15 +135,12 @@ Visual Studio Code (VSCode) là một trình biên tập mã nguồn mở và mi
 
 ## **Ngôn Ngữ Sử Dụng**
 
-###### Front-End: (HTML/JavaScript/CSS):
+###### Front-End: (HTML/CSS):
 HTML (index.html) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) :
 Mô tả: Đây là trang chính của ứng dụng web, nơi mà giao diện người dùng được xây dựng. Nó chứa các phần tử HTML cơ bản như các nút, mẫu, và trường nhập liệu.
 
 CSS (styles.css) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white):
 Mô tả: Định dạng và trang trí giao diện người dùng. Điều này bao gồm màu sắc, kích thước, và bố cục của các phần tử trên trang.
-
-JavaScript (main.js) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E):
-Mô tả: Xử lý tương tác của người dùng, thực hiện các chức năng như đặt xe, tìm kiếm, và xử lý dữ liệu nhập từ người dùng.
 
 ###### Back-End (C#/SQL):
 C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white):
